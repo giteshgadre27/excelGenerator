@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">ExcelGenerator.javaService</value>
+  <value name="node_pkg">ExcelGenerator</value>
+  <value name="is_public">false</value>
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>org.apache.poi.hssf.usermodel.HSSFWorkbook</value>
+    <value>org.apache.poi.hssf.usermodel.HSSFSheet</value>
+    <value>org.apache.poi.hssf.usermodel.HSSFRow</value>
+    <value>org.apache.poi.hssf.usermodel.HSSFCell</value>
+    <value>org.apache.poi.hssf.usermodel.HSSFCellStyle</value>
+    <value>org.apache.poi.hssf.util.HSSFColor</value>
+    <value>org.apache.poi.ss.usermodel.FillPatternType</value>
+    <value>org.apache.poi.ss.usermodel.IndexedColors</value>
+    <value>org.w3c.dom.Document</value>
+    <value>org.w3c.dom.Element</value>
+    <value>org.w3c.dom.NodeList</value>
+    <value>org.xml.sax.InputSource</value>
+    <value>org.apache.poi.hssf.*</value>
+    <value>javax.xml.parsers.DocumentBuilderFactory</value>
+    <value>java.io.FileOutputStream</value>
+    <value>java.io.StringReader</value>
+    <value>java.io.File</value>
+  </array>
+</Values>
